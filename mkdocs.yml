@@ -35,7 +35,7 @@ theme:
   favicon: template_assets/webex75.png
 extra:
   generator: false
-  repo: "https://github.com/kevsimps/wx1_26.git"
+  repo: "https://github.com/WebexCC-SA/LAB-DEMO.git"
   site_event: test
 extra_css:
   - stylesheets/extra.css
