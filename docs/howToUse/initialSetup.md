@@ -42,13 +42,13 @@
 > 
     > In your terminal enter the following commands:
     >
-    > <copy>python -m venv venv</copy>
+    > <copy>python3 -m venv venv</copy>
     >
     > <copy>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser</copy>
     >
     > <copy>venv\Scripts\activate.ps1</copy>
     > 
-    > <copy>pip install -r requirements_dev.txt</copy>
+    > <copy>pip3 install -r requirements_dev.txt</copy>
     >
     > <copy>mkdocs serve --livereload</copy>
     >
@@ -61,11 +61,11 @@
 > 
     > In your terminal enter the following commands:
     >
-    > <copy>python -m venv venv</copy>
+    > <copy>python3 -m venv venv</copy>
     >
     > <copy>source venv/bin/activate</copy>
     >     
-    > <copy>pip install -r requirements_dev.txt</copy>
+    > <copy>pip3 install -r requirements_dev.txt</copy>
     >
     > <copy>mkdocs serve --livereload</copy>
     >

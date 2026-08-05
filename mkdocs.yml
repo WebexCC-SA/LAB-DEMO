@@ -97,11 +97,11 @@ nav:
         - Initial Setup: howToUse/initialSetup.md
         - Using the tool after the initial setup: howToUse/postInitial.md
         - Publishing your changes: howToUse/syncChanges.md
+      - Useful Tools and Resources: howToUse/usefulTools.md
       - Importing from Word (docx): howToUse/importingFromWord.md
       - Styling and Advanced Features:
         - Custom Features: howToUse/customFeatures.md
         - Custom Admonitions: howToUse/admonition.md
       - Looking for Inspiration: howToUse/previousEventLabs.md
-      - Useful Tools and Resources: howToUse/usefulTools.md
       - Before the Event: howToUse/beforeTheEvent.md
   - <z onclick='(function(){window.open("https://app.sli.do/event/9FSNERWiqKg55MygtExCBX/embed/polls/7e4d8526-5188-44e9-80ae-736bfd036c1d","_blank")}())'>Request Your Lab</z>: howToUse/requestLab.md
